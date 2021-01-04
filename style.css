@@ -1,0 +1,24 @@
+.grid {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+    background-image: url('download.jfif');
+}
+
+.grid div{
+    width: 20px;
+    height: 20px;
+}
+
+.snake {
+    background: url("https://cdn3.vectorstock.com/i/thumb-large/23/67/snake-skin-seamless-pattern-vector-24952367.jpg");
+    background-size: 100%;
+}
+
+.apple {
+    background: url("https://image.flaticon.com/icons/png/128/135/135728.png");
+    background-size: 100%;
+}
+
